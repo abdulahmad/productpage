@@ -1,0 +1,15 @@
+.Button {
+  background-color: #0879c9;
+  color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding: 10px;
+  text-align:center;
+  font-size:1rem;
+  border: none;
+  width: 100%;
+
+  &:hover {
+    background-color: #2899e9;
+    cursor: pointer;
+  }
+}
